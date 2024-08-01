@@ -2,13 +2,6 @@ $(document).ready(function () {
     // Lista de filmes
     const movies = [
         {
-            title: "Laranja Mecânica",
-            year: 1971,
-            genre: "Ficção/Drama",
-            img: "https://image.tmdb.org/t/p/w300/tNgmc9kKLPYn78yTWZ50omc4QVb.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0066921"
-        },
-        {
             title: "O Bebê de Rosemary",
             year: 1968,
             genre: "Terror/Drama",
@@ -44,11 +37,46 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0075314"
         },
         {
+            title: "Laranja Mecânica",
+            year: 1971,
+            genre: "Ficção/Drama",
+            img: "https://image.tmdb.org/t/p/w300/tNgmc9kKLPYn78yTWZ50omc4QVb.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0066921"
+        },
+        {
             title: "Kill Bill: Volume 1",
             year: 2003,
             genre: "Ação/Crime",
             img: "https://image.tmdb.org/t/p/w300/oj0ibkqKGJ3CvSTb3Pkx299P0SK.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0266697"
+        },
+        {
+            title: "Edward Mãos de Tesoura",
+            year: 1990,
+            genre: "Drama/Fantasia",
+            img: "https://image.tmdb.org/t/p/w300/8vmYMcvWaqqhEWt9EnTPdXDdy2F.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0099487"
+        },
+        {
+            title: "O Silêncio dos Inocentes",
+            year: 1991,
+            genre: "Drama",
+            img: "https://image.tmdb.org/t/p/w300/paGUSTwcFrAxpGV1hSQ2wsI28id.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0102926"
+        },
+        {
+            title: "Réquiem para um Sonho",
+            year: 2000,
+            genre: "Crime/Drama",
+            img: "https://image.tmdb.org/t/p/w300/1XoWfP4l4X7sQMH8dhVQOWc91Pd.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0180093"
+        },
+        {
+            title: "Diário de um Adolescente",
+            year: 1995,
+            genre: "Crime/Drama",
+            img: "https://image.tmdb.org/t/p/w300/mdQoyPS3QICr3texSpvNqkdmqD.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0112461"
         },
         {
             title: "O Poderoso Chefão",
@@ -107,13 +135,6 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0083866"
         },
         {
-            title: "Réquiem para um Sonho",
-            year: 2000,
-            genre: "Crime/Drama",
-            img: "https://image.tmdb.org/t/p/w300/1XoWfP4l4X7sQMH8dhVQOWc91Pd.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0180093"
-        },
-        {
             title: "Platoon",
             year: 1986,
             genre: "Ação",
@@ -135,25 +156,11 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0097165"
         },
         {
-            title: "Edward Mãos de Tesoura",
-            year: 1990,
-            genre: "Drama/Fantasia",
-            img: "https://image.tmdb.org/t/p/w300/8vmYMcvWaqqhEWt9EnTPdXDdy2F.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0099487"
-        },
-        {
             title: "Diário de um Adolescente",
             year: 1995,
             genre: "Crime/Drama",
             img: "https://image.tmdb.org/t/p/w300/mdQoyPS3QICr3texSpvNqkdmqD.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0112461"
-        },
-        {
-            title: "O Silêncio dos Inocentes",
-            year: 1991,
-            genre: "Drama",
-            img: "https://image.tmdb.org/t/p/w300/paGUSTwcFrAxpGV1hSQ2wsI28id.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0102926"
         },
         {
             title: "Malcolm X",
