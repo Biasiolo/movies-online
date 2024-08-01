@@ -51,11 +51,11 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0266697"
         },
         {
-            title: "Edward Mãos de Tesoura",
-            year: 1990,
-            genre: "Drama/Fantasia",
-            img: "https://image.tmdb.org/t/p/w300/8vmYMcvWaqqhEWt9EnTPdXDdy2F.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0099487"
+            title: "Coringa",
+            year: 2019,
+            genre: "Crime/Drama",
+            img: "https://image.tmdb.org/t/p/w300/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt7286456"
         },
         {
             title: "O Silêncio dos Inocentes",
@@ -65,11 +65,11 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0102926"
         },
         {
-            title: "Réquiem para um Sonho",
-            year: 2000,
-            genre: "Crime/Drama",
-            img: "https://image.tmdb.org/t/p/w300/1XoWfP4l4X7sQMH8dhVQOWc91Pd.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0180093"
+            title: "Oppenheimer",
+            year: 2023,
+            genre: "Drama/História",
+            img: "https://image.tmdb.org/t/p/w300/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt15398776"
         },
         {
             title: "Diário de um Adolescente",
@@ -98,6 +98,27 @@ $(document).ready(function () {
             genre: "Crime/Drama",
             img: "https://image.tmdb.org/t/p/w300/y8GROCjgD8amoFufSx2USKrOy7d.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0099674"
+        },
+        {
+            title: "Edward Mãos de Tesoura",
+            year: 1990,
+            genre: "Drama/Fantasia",
+            img: "https://image.tmdb.org/t/p/w300/8vmYMcvWaqqhEWt9EnTPdXDdy2F.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0099487"
+        },
+        {
+            title: "Réquiem para um Sonho",
+            year: 2000,
+            genre: "Crime/Drama",
+            img: "https://image.tmdb.org/t/p/w300/1XoWfP4l4X7sQMH8dhVQOWc91Pd.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0180093"
+        },
+        {
+            title: "Parasita",
+            year: 2019,
+            genre: "Comédia/Drama",
+            img: "https://image.tmdb.org/t/p/w300/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt6751668"
         },
         {
             title: "O Senhor dos Anéis",
@@ -149,18 +170,26 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0091605"
         },
         {
-            title: "Sociedade dos Poetas Mortos",
-            year: 1989,
+            title: "Bob Marley: One Love",
+            year: 2024,
             genre: "Drama",
-            img: "https://image.tmdb.org/t/p/w300/ufmT4SaTd0vfTRIsUIVpgckridb.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0097165"
+            img: "https://image.tmdb.org/t/p/w300/mKWalirPreEdCKDJjc5TKeOP2xi.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt8521778"
+        },
+        
+        {
+            title: "Napoleão",
+            year: 2023,
+            genre: "Drama/História",
+            img: "https://image.tmdb.org/t/p/w300/5lkM8eyWLdzHwvhB1jBUxpCLmLR.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt13287846"
         },
         {
-            title: "Diário de um Adolescente",
-            year: 1995,
+            title: "O Irlandês",
+            year: 2019,
             genre: "Crime/Drama",
-            img: "https://image.tmdb.org/t/p/w300/mdQoyPS3QICr3texSpvNqkdmqD.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0112461"
+            img: "https://image.tmdb.org/t/p/w300/mFyQRQoUh8InlwmE5fRd9LOBRZ1.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt1302006"
         },
         {
             title: "Malcolm X",
@@ -196,6 +225,13 @@ $(document).ready(function () {
             genre: "Aventura/Ficção",
             img: "https://image.tmdb.org/t/p/w300/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0167260"
+        },
+        {
+            title: "Sociedade dos Poetas Mortos",
+            year: 1989,
+            genre: "Drama",
+            img: "https://image.tmdb.org/t/p/w300/ufmT4SaTd0vfTRIsUIVpgckridb.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0097165"
         },
         {
             title: "Um Dia de Fúria",
@@ -246,6 +282,29 @@ $(document).ready(function () {
             img: "https://image.tmdb.org/t/p/w300/oe26GVJTIEFLW8WjGMj1K0MbWUJ.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0187393"
         },
+        {
+            title: "Einstein e a Bomba",
+            year: 2024,
+            genre: "Drama/História",
+            img: "https://image.tmdb.org/t/p/w300/pGEB1qR73d8XNhnHCXqnkuMokIk.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt28756876"
+        },
+        {
+            title: "Elvis",
+            year: 2022,
+            genre: "Drama/História",
+            img: "https://image.tmdb.org/t/p/w300/4CYhJ9WNHIc1WRrQ5kYwBtmMvNB.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt3704428"
+        },
+        {
+            title: "AK-47",
+            year: 2020,
+            genre: "Drama/História",
+            img: "https://image.tmdb.org/t/p/w300/4djODIhP8TZtjkG6w2xZjOuLk6.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt11547520"
+        },
+        
+        
         
         
         
