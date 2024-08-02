@@ -199,6 +199,13 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0091763"
         },
         {
+            title: "Os 12 Macacos",
+            year: 1995,
+            genre: "Ficção",
+            img: "https://image.tmdb.org/t/p/w300/rAjErpTZ5MT5aOIP0TooLwcfmzm.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0114746"
+        },
+        {
             title: "O Nome da Rosa",
             year: 1986,
             genre: "Drama",
@@ -276,25 +283,25 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0106856"
         },
         {
-            title: "O Profissional",
-            year: 1994,
-            genre: "Crime/Drama",
-            img: "https://image.tmdb.org/t/p/w300/eThcNkIpmPYUVYZ5PMs7o5Fts1D.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0110413"
-        },
-        {
-            title: "Os 12 Macacos",
-            year: 1995,
-            genre: "Ficção",
-            img: "https://image.tmdb.org/t/p/w300/rAjErpTZ5MT5aOIP0TooLwcfmzm.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0114746"
-        },
-        {
-            title: "O Show de Truman",
-            year: 1998,
+            title: "O Mundo de Andy",
+            year: 1999,
             genre: "Comédia/Drama",
-            img: "https://image.tmdb.org/t/p/w300/rbPTCnxQgEsWdetEcPiaKstX7mp.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0120382"
+            img: "https://image.tmdb.org/t/p/w300/qwabM2f4OHtm2c6PT2yd9qBw0TZ.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0125664"
+        },
+        {
+            title: "Bom Dia, Vietnã",
+            year: 1987,
+            genre: "Comédia",
+            img: "https://image.tmdb.org/t/p/w300/nCGK7GwtjCu2gvdfyvxLX3JkxE9.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0093105"
+        },
+        {
+            title: "Einstein e a Bomba",
+            year: 2024,
+            genre: "Drama/História",
+            img: "https://image.tmdb.org/t/p/w300/pGEB1qR73d8XNhnHCXqnkuMokIk.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt28756876"
         },
         {
             title: "Magnólia",
@@ -318,11 +325,11 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0187393"
         },
         {
-            title: "Einstein e a Bomba",
-            year: 2024,
-            genre: "Drama/História",
-            img: "https://image.tmdb.org/t/p/w300/pGEB1qR73d8XNhnHCXqnkuMokIk.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt28756876"
+            title: "O Profissional",
+            year: 1994,
+            genre: "Crime/Drama",
+            img: "https://image.tmdb.org/t/p/w300/eThcNkIpmPYUVYZ5PMs7o5Fts1D.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0110413"
         },
         {
             title: "Che: O Argentino",
@@ -337,6 +344,13 @@ $(document).ready(function () {
             genre: "Drama/História",
             img: "https://image.tmdb.org/t/p/w300/4CYhJ9WNHIc1WRrQ5kYwBtmMvNB.jpg",
             src: "https://embedder.net/e/movie?imdb=tt3704428"
+        },
+        {
+            title: "O Show de Truman",
+            year: 1998,
+            genre: "Comédia/Drama",
+            img: "https://image.tmdb.org/t/p/w300/rbPTCnxQgEsWdetEcPiaKstX7mp.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0120382"
         },
         {
             title: "AK-47",
@@ -379,6 +393,13 @@ $(document).ready(function () {
             genre: "Drama/História",
             img: "https://image.tmdb.org/t/p/w300/6Rj2CW7ZaNOcEhGKndXka2p86s4.jpg",
             src: "https://embedder.net/e/movie?imdb=tt4084744"
+        },
+        {
+            title: "Loucademia de Polícia",
+            year: 1984,
+            genre: "Comédia",
+            img: "https://image.tmdb.org/t/p/w300/9R7hTHaSeKU7Fk0Dr75Y6YhdYcu.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0087928"
         },
         
         
