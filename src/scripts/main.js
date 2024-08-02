@@ -30,18 +30,18 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0062622"
         },
         {
-            title: "Pulp Fiction",
-            year: 1994,
-            genre: "Crime/Drama",
-            img: "https://image.tmdb.org/t/p/w300/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0110912"
-        },
-        {
             title: "Taxi Driver",
             year: 1976,
             genre: "Crime/Drama",
             img: "https://image.tmdb.org/t/p/w300/wOi8s0WQZYlTDkWB46Z6p3ji5Fq.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0075314"
+        },
+        {
+            title: "Kill Bill: Volume 1",
+            year: 2003,
+            genre: "Ação/Crime",
+            img: "https://image.tmdb.org/t/p/w300/oj0ibkqKGJ3CvSTb3Pkx299P0SK.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0266697"
         },
         {
             title: "Laranja Mecânica",
@@ -51,11 +51,11 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0066921"
         },
         {
-            title: "Kill Bill: Volume 1",
-            year: 2003,
-            genre: "Ação/Crime",
-            img: "https://image.tmdb.org/t/p/w300/oj0ibkqKGJ3CvSTb3Pkx299P0SK.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0266697"
+            title: "Sociedade dos Poetas Mortos",
+            year: 1989,
+            genre: "Drama",
+            img: "https://image.tmdb.org/t/p/w300/ufmT4SaTd0vfTRIsUIVpgckridb.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0097165"
         },
         {
             title: "Coringa",
@@ -72,11 +72,11 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0102926"
         },
         {
-            title: "Diário de um Adolescente",
-            year: 1995,
+            title: "Pulp Fiction",
+            year: 1994,
             genre: "Crime/Drama",
-            img: "https://image.tmdb.org/t/p/w300/mdQoyPS3QICr3texSpvNqkdmqD.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0112461"
+            img: "https://image.tmdb.org/t/p/w300/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0110912"
         },
         {
             title: "O Poderoso Chefão",
@@ -106,6 +106,7 @@ $(document).ready(function () {
             img: "https://image.tmdb.org/t/p/w300/8vmYMcvWaqqhEWt9EnTPdXDdy2F.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0099487"
         },
+        
         {
             title: "Réquiem para um Sonho",
             year: 2000,
@@ -135,6 +136,13 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0055031"
         },
         {
+            title: "Diário de um Adolescente",
+            year: 1995,
+            genre: "Crime/Drama",
+            img: "https://image.tmdb.org/t/p/w300/mdQoyPS3QICr3texSpvNqkdmqD.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0112461"
+        },
+        {
             title: "Elvis é Assim",
             year: 1970,
             genre: "Documentário",
@@ -142,11 +150,25 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0065687"
         },
         {
+            title: "O Labirinto do Fauno",
+            year: 2006,
+            genre: "Fantasia",
+            img: "https://image.tmdb.org/t/p/w300/53ZMT8Y18gwLpInzRLMEebAZxew.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0457430"
+        },
+        {
             title: "Mad Max",
             year: 1979,
             genre: "Ação/Ficção",
             img: "https://image.tmdb.org/t/p/w300/hdQqa9ZfmEPbE4q62lntueI2CUM.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0079501"
+        },
+        {
+            title: "A Era de Ouro",
+            year: 2023,
+            genre: "Drama",
+            img: "https://image.tmdb.org/t/p/w300/p7HiwisHEP9l1bF3LMnoF3R63nn.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt2071590"
         },
         {
             title: "O Bebê de Rosemary",
@@ -161,6 +183,13 @@ $(document).ready(function () {
             genre: "Fantasia/Ficção",
             img: "https://image.tmdb.org/t/p/w300/8j5igb0iuV9TYudw9SuMV5GT9K9.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0083866"
+        },
+        {
+            title: "Dalíland",
+            year: 2022,
+            genre: "Drama/História",
+            img: "https://image.tmdb.org/t/p/w300/4RE6PmgeE6Kz0fur2oiiYZ50R0c.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt8399658"
         },
         {
             title: "Platoon",
@@ -238,13 +267,6 @@ $(document).ready(function () {
             genre: "Aventura/Ficção",
             img: "https://image.tmdb.org/t/p/w300/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0167260"
-        },
-        {
-            title: "Sociedade dos Poetas Mortos",
-            year: 1989,
-            genre: "Drama",
-            img: "https://image.tmdb.org/t/p/w300/ufmT4SaTd0vfTRIsUIVpgckridb.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0097165"
         },
         {
             title: "Um Dia de Fúria",
@@ -343,13 +365,6 @@ $(document).ready(function () {
             genre: "Drama",
             img: "https://image.tmdb.org/t/p/w300/mylaAHi6yNibVqHoTj1SpCwY3zV.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0318462"
-        },
-        {
-            title: "O Labirinto do Fauno",
-            year: 2006,
-            genre: "Fantasia",
-            img: "https://image.tmdb.org/t/p/w300/53ZMT8Y18gwLpInzRLMEebAZxew.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0457430"
         },
         {
             title: "O Senhor dos Anéis",
