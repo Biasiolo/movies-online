@@ -9,6 +9,7 @@ $red-color: #ff192d;
     padding: 0;
     scroll-behavior: auto;
     list-style: none;
+    text-decoration: none;
 }
 
 body {
@@ -35,6 +36,7 @@ header {
 
     nav .nav-link {
         font-size: 1.2rem;
+        text-decoration: none;
 
         &:hover {
             text-decoration: underline;
