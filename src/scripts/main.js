@@ -2,18 +2,18 @@ $(document).ready(function () {
     // Lista de filmes
     const movies = [
         {
-            title: "A Vida é Bela",
-            year: 1997,
-            genre: "Comédia/Drama",
-            img: "https://image.tmdb.org/t/p/w300/h8PEObIiYUo4wHGo2qgWge2wqzv.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0118799"
-        },
-        {
             title: "O Iluminado",
             year: 1980,
             genre: "Suspense/Terror",
             img: "https://image.tmdb.org/t/p/w300/7ceEaLciLfksJkSHqp0vLE5eLyy.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0081505"
+        },
+        {
+            title: "A Vida é Bela",
+            year: 1997,
+            genre: "Comédia/Drama",
+            img: "https://image.tmdb.org/t/p/w300/h8PEObIiYUo4wHGo2qgWge2wqzv.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0118799"
         },
         {
             title: "Oppenheimer",
@@ -234,18 +234,18 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt13287846"
         },
         {
-            title: "O Irlandês",
-            year: 2019,
-            genre: "Crime/Drama",
-            img: "https://image.tmdb.org/t/p/w300/mFyQRQoUh8InlwmE5fRd9LOBRZ1.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt1302006"
-        },
-        {
             title: "Malcolm X",
             year: 1992,
             genre: "Drama",
             img: "https://image.tmdb.org/t/p/w300/ttcqfFRLsGxStkTd5YjfMD2uKv0.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0104797"
+        },
+        {
+            title: "O Irlandês",
+            year: 2019,
+            genre: "Crime/Drama",
+            img: "https://image.tmdb.org/t/p/w300/mFyQRQoUh8InlwmE5fRd9LOBRZ1.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt1302006"
         },
         {
             title: "Cães de Aluguel",
@@ -386,6 +386,13 @@ $(document).ready(function () {
             genre: "Fantasia",
             img: "https://image.tmdb.org/t/p/w300/3rSiabvjCGjkCTHSB3eYgDKKNv2.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0077869"
+        },
+        {
+            title: "Carros",
+            year: 2006,
+            genre: "Comédia/Infantil",
+            img: "https://image.tmdb.org/t/p/w300/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0317219"
         },
         {
             title: "A Sniper Russa",
