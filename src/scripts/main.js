@@ -16,6 +16,13 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0081505"
         },
         {
+            title: "Oppenheimer",
+            year: 2023,
+            genre: "Drama/História",
+            img: "https://image.tmdb.org/t/p/w300/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt15398776"
+        },
+        {
             title: "2001: Uma Odisséia no Espaço",
             year: 1968,
             genre: "Ficção/Aventura",
@@ -63,13 +70,6 @@ $(document).ready(function () {
             genre: "Drama",
             img: "https://image.tmdb.org/t/p/w300/paGUSTwcFrAxpGV1hSQ2wsI28id.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0102926"
-        },
-        {
-            title: "Oppenheimer",
-            year: 2023,
-            genre: "Drama/História",
-            img: "https://image.tmdb.org/t/p/w300/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt15398776"
         },
         {
             title: "Diário de um Adolescente",
