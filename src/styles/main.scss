@@ -23,6 +23,7 @@ header {
     background-repeat: none;
     background-size: cover;
     text-shadow: 1px 2px 1px #833f54;
+    
 
     .logo h1 {
         font-family: "Anton", sans-serif;
@@ -115,10 +116,15 @@ main {
 }
 
 
-.page-link {
+.pagination-btn {
     background-color: $primary-color;
-    color: $light-color;
+    color: $red-color;
     border: 1px solid rgb(19, 13, 46);
+    &:hover {
+        color:$primary-color;
+        background-color: $red-color;
+        border: 1px solid rgb(19, 13, 46);
+    }
 }
 
 .page-item.active .page-link {

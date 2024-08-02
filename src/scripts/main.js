@@ -2,11 +2,11 @@ $(document).ready(function () {
     // Lista de filmes
     const movies = [
         {
-            title: "O Bebê de Rosemary",
-            year: 1968,
-            genre: "Terror/Drama",
-            img: "https://image.tmdb.org/t/p/w300/v9OaZXIFgAmgYPDcs06kks0c1Fr.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0063522"
+            title: "A Vida é Bela",
+            year: 1997,
+            genre: "Comédia/Drama",
+            img: "https://image.tmdb.org/t/p/w300/h8PEObIiYUo4wHGo2qgWge2wqzv.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0118799"
         },
         {
             title: "O Iluminado",
@@ -121,11 +121,11 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt6751668"
         },
         {
-            title: "O Senhor dos Anéis",
-            year: 1978,
-            genre: "Fantasia",
-            img: "https://image.tmdb.org/t/p/w300/3rSiabvjCGjkCTHSB3eYgDKKNv2.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0077869"
+            title: "Bastardos Inglórios",
+            year: 2009,
+            genre: "Ação/Drama",
+            img: "https://image.tmdb.org/t/p/w300/6UjYycIR6VLYgggfNpmSPJHmFS0.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0361748"
         },
         {
             title: "Julgamento em Nuremberg",
@@ -147,6 +147,13 @@ $(document).ready(function () {
             genre: "Ação/Ficção",
             img: "https://image.tmdb.org/t/p/w300/hdQqa9ZfmEPbE4q62lntueI2CUM.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0079501"
+        },
+        {
+            title: "O Bebê de Rosemary",
+            year: 1968,
+            genre: "Terror/Drama",
+            img: "https://image.tmdb.org/t/p/w300/v9OaZXIFgAmgYPDcs06kks0c1Fr.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0063522"
         },
         {
             title: "E.T.: O Extraterrestre",
@@ -176,7 +183,13 @@ $(document).ready(function () {
             img: "https://image.tmdb.org/t/p/w300/mKWalirPreEdCKDJjc5TKeOP2xi.jpg",
             src: "https://embedder.net/e/movie?imdb=tt8521778"
         },
-        
+        {
+            title: "O Tigre e o Dragão",
+            year: 1997,
+            genre: "Aventura/Drama",
+            img: "https://image.tmdb.org/t/p/w300/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0190332"
+        },
         {
             title: "Napoleão",
             year: 2023,
@@ -290,6 +303,13 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt28756876"
         },
         {
+            title: "Che: O Argentino",
+            year: 2006,
+            genre: "Drama/História",
+            img: "https://image.tmdb.org/t/p/w300/ekUpkM5tStkZuzpIzg77PbkG6SM.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0892255"
+        },
+        {
             title: "Elvis",
             year: 2022,
             genre: "Drama/História",
@@ -302,6 +322,48 @@ $(document).ready(function () {
             genre: "Drama/História",
             img: "https://image.tmdb.org/t/p/w300/4djODIhP8TZtjkG6w2xZjOuLk6.jpg",
             src: "https://embedder.net/e/movie?imdb=tt11547520"
+        },
+        {
+            title: "À Espera de um Milagre",
+            year: 1997,
+            genre: "Crime/Drama",
+            img: "https://image.tmdb.org/t/p/w300/14hEqW67IiHlKpzKMLUXyktzZIV.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0118799"
+        },
+        {
+            title: "Uma Mente Brilhante",
+            year: 2001,
+            genre: "Drama/Romance",
+            img: "https://image.tmdb.org/t/p/w300/8K5W9QnNT7r1V9GuJ5z5KlrROkd.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0268978"
+        },
+        {
+            title: "Diários de Motocicleta",
+            year: 2004,
+            genre: "Drama",
+            img: "https://image.tmdb.org/t/p/w300/mylaAHi6yNibVqHoTj1SpCwY3zV.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0318462"
+        },
+        {
+            title: "O Labirinto do Fauno",
+            year: 2006,
+            genre: "Fantasia",
+            img: "https://image.tmdb.org/t/p/w300/53ZMT8Y18gwLpInzRLMEebAZxew.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0457430"
+        },
+        {
+            title: "O Senhor dos Anéis",
+            year: 1978,
+            genre: "Fantasia",
+            img: "https://image.tmdb.org/t/p/w300/3rSiabvjCGjkCTHSB3eYgDKKNv2.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0077869"
+        },
+        {
+            title: "A Sniper Russa",
+            year: 2015,
+            genre: "Drama/História",
+            img: "https://image.tmdb.org/t/p/w300/6Rj2CW7ZaNOcEhGKndXka2p86s4.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt4084744"
         },
         
         
