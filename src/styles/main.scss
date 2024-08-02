@@ -36,7 +36,13 @@ header {
 
     nav .nav-link {
         font-size: 1.2rem;
-        text-decoration: none;
+        a{
+            text-decoration: none;
+            &:hover {
+                color: $red-color;
+            }
+        }
+        
 
         &:hover {
             text-decoration: underline;
