@@ -143,13 +143,6 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0112461"
         },
         {
-            title: "Elvis é Assim",
-            year: 1970,
-            genre: "Documentário",
-            img: "https://image.tmdb.org/t/p/w300/8qwwp5fOPNXDfaqta5x34nDXEDI.jpg",
-            src: "https://embedder.net/e/movie?imdb=tt0065687"
-        },
-        {
             title: "O Labirinto do Fauno",
             year: 2006,
             genre: "Fantasia",
@@ -332,6 +325,13 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0110413"
         },
         {
+            title: "Elvis é Assim",
+            year: 1970,
+            genre: "Documentário",
+            img: "https://image.tmdb.org/t/p/w300/8qwwp5fOPNXDfaqta5x34nDXEDI.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0065687"
+        },
+        {
             title: "Che: O Argentino",
             year: 2006,
             genre: "Drama/História",
@@ -421,6 +421,13 @@ $(document).ready(function () {
             genre: "Fantasia",
             img: "https://image.tmdb.org/t/p/w300/pyMGhuAWC7nYyolKJlFbT7pp02K.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0107688"
+        },
+        {
+            title: "Deadpool & Wolverine",
+            year: 2024,
+            genre: "Comédia/Ação",
+            img: "https://image.tmdb.org/t/p/w300/qkhZRqCWqJ376sBzD4MeAO2w4wv.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt6263850"
         },
         {
             title: "Advogado do Diabo",
