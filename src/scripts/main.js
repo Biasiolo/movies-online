@@ -374,6 +374,13 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0268978"
         },
         {
+            title: "A Lista de Schindler",
+            year: 1993,
+            genre: "Drama/História",
+            img: "https://image.tmdb.org/t/p/w300/bGhhNzJYDsuLruNN5bJ2PvLcMiq.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0108052"
+        },
+        {
             title: "Diários de Motocicleta",
             year: 2004,
             genre: "Drama",
@@ -407,6 +414,27 @@ $(document).ready(function () {
             genre: "Comédia",
             img: "https://image.tmdb.org/t/p/w300/9R7hTHaSeKU7Fk0Dr75Y6YhdYcu.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0087928"
+        },
+        {
+            title: "O Estranho Mundo de Jack",
+            year: 1993,
+            genre: "Fantasia",
+            img: "https://image.tmdb.org/t/p/w300/pyMGhuAWC7nYyolKJlFbT7pp02K.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0107688"
+        },
+        {
+            title: "Advogado do Diabo",
+            year: 1997,
+            genre: "Drama/Suspense",
+            img: "https://image.tmdb.org/t/p/w300/qL17FxDhLDeTdgZxOg2MQrY8PMv.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0118971"
+        },
+        {
+            title: "Efeito Borboleta",
+            year: 2004,
+            genre: "Ficção",
+            img: "https://image.tmdb.org/t/p/w300/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0289879"
         },
         
         
