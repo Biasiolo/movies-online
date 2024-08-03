@@ -519,7 +519,8 @@ $(document).ready(function () {
     }
 
     function scrollToTop() {
-        $("html, body").animate({ scrollTop: 0 }, "slow");
+        const targetOffset = $('#buscar').offset().top;
+        $("html, body").animate({ scrollTop: targetOffset }, "slow");
     }
 
     renderMovies(currentPage, filteredMovies);
