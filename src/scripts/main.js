@@ -129,11 +129,25 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0361748"
         },
         {
+            title: "Os Bons Companheiros",
+            year: 1990,
+            genre: "Crime/Drama",
+            img: "https://image.tmdb.org/t/p/w300/fnJcBTbNNUkcNmjqc7fF5ozzLDk.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt0099685"
+        },
+        {
             title: "Julgamento em Nuremberg",
             year: 1961,
             genre: "Drama",
             img: "https://image.tmdb.org/t/p/w300/3ollXGoWPfbZZrNCLH6Y7o3ufoU.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0055031"
+        },
+        {
+            title: "O Clube de Apostas",
+            year: 2022,
+            genre: "Crime/Drama",
+            img: "https://image.tmdb.org/t/p/w300/ljS9zHjqilgvqfuzcrGqrK9E8N9.jpg",
+            src: "https://embedder.net/e/movie?imdb=tt12223548"
         },
         {
             title: "Diário de um Adolescente",

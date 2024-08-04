@@ -182,7 +182,7 @@ main {
 
             .btn-primary {
                 background-color: transparent;
-                border-color: rgb(20, 15, 60);
+                border-color: $dark-color;
                 width: 50%;
 
                 &:hover {
@@ -292,7 +292,7 @@ main {
 
 footer {
     background-color: $primary-color;
-    
+
     h6 {
         font-family: 'Roboto Condensed', sans-serif;
         font-weight: 700;
