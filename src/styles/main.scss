@@ -17,13 +17,6 @@ body {
     background-color: #001f3d;
 }
 
-.ads {
-    align-items: center;
-    background-image: url(../images/banner1.png);
-    background-position: center center;
-    background-repeat: none;
-    background-size: cover;
-}
 
 header {
     align-items: center;
@@ -109,7 +102,11 @@ header {
 }
 
 .tvOnline {
-    background-color: $primary-color;
+    align-items: center;
+    background-image: url(../images/banner2.png);
+    background-position: center;
+    background-repeat: none;
+    background-size:cover;
     h3 {
         color:$light-color;
     }
