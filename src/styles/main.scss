@@ -221,6 +221,45 @@ main {
     background-color: $light-color;
 }
 
+.seo-section {
+    background-color: $primary-color;
+    img {
+        width: 100%;
+        height: auto;
+    }
+
+    h5 {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: 700;
+        font-size: 2rem;
+        color: $red-color;
+    }
+
+    p {
+        margin-bottom: 1rem;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: 400;
+        line-height: 1.6;
+        color: $light-color;
+        font-size: 1.1rem;
+    }
+    .btn-primary {
+        background-color: transparent;
+        border-color: $red-color;
+        width: 250px;
+        font-weight: 600;
+        font-size: 1.3rem;
+        color: $light-color;
+
+        &:hover {
+            background-color: $red-color;
+            color: $primary-color;
+        }
+    }
+}
+
 
 .modal-content {
     background-color: $primary-color;
@@ -249,4 +288,29 @@ main {
 
 #searchInput::placeholder {
     color: #94a0ac;
+}
+
+footer {
+    background-color: $primary-color;
+    
+    h6 {
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: 700;
+        margin-bottom: 1rem;
+        color: $red-color;
+    }
+
+    p {
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: 400;
+        line-height: 1.6;
+        color: $light-color;
+    }
+
+    a {
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
 }
