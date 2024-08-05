@@ -100,6 +100,13 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0099674"
         },
         {
+            title: "Clube da Luta",
+            year: 1999,
+            genre: "Drama",
+            img: "https://image.tmdb.org/t/p/w300/r3pPehX4ik8NLYPpbDRAh0YRtMb.jpg",
+            src: "https://superflixapi.dev/filme/tt0137523"
+        },
+        {
             title: "Edward Mãos de Tesoura",
             year: 1990,
             genre: "Drama/Fantasia",
@@ -141,6 +148,20 @@ $(document).ready(function () {
             genre: "Drama",
             img: "https://image.tmdb.org/t/p/w300/3ollXGoWPfbZZrNCLH6Y7o3ufoU.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0055031"
+        },
+        {
+            title: "Barry Lyndon",
+            year: 1975,
+            genre: "Drama/História",
+            img: "https://image.tmdb.org/t/p/w300/dOJtBSyI30wWc08UmyEKLsu4Rfk.jpg",
+            src: "https://superflixapi.dev/filme/tt0072684"
+        },
+        {
+            title: "Beleza Americana",
+            year: 1999,
+            genre: "Drama",
+            img: "https://image.tmdb.org/t/p/w300/9PJKsH7Btz2xjYIvLLtJ7qcJlL3.jpg",
+            src: "https://superflixapi.dev/filme/tt0169547"
         },
         {
             title: "O Clube de Apostas",
@@ -192,6 +213,13 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0083866"
         },
         {
+            title: "Apocalypse Now",
+            year: 1979,
+            genre: "Drama/Guerra",
+            img: "https://image.tmdb.org/t/p/w300/awYf0r6iuTXDAYQEGLdsvzz3Sa5.jpg",
+            src: "https://superflixapi.dev/filme/tt0078788"
+        },
+        {
             title: "Dalíland",
             year: 2022,
             genre: "Drama/História",
@@ -211,6 +239,13 @@ $(document).ready(function () {
             genre: "Ficção",
             img: "https://image.tmdb.org/t/p/w300/rAjErpTZ5MT5aOIP0TooLwcfmzm.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0114746"
+        },
+        {
+            title: "Cidadão Kane",
+            year: 1941,
+            genre: "Drama/Mistério",
+            img: "https://image.tmdb.org/t/p/w300/tLp8GbgdOExNdmXLeDddWXJxIwr.jpg",
+            src: "https://superflixapi.dev/filme/tt0033467"
         },
         {
             title: "O Nome da Rosa",
@@ -260,6 +295,13 @@ $(document).ready(function () {
             genre: "Crime/Drama",
             img: "https://image.tmdb.org/t/p/w300/84dzLDiFiACIqKtqQwzmB6GL7uC.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0105236"
+        },
+        {
+            title: "Nascido para Matar",
+            year: 1987,
+            genre: "Drama/Guerra",
+            img: "https://image.tmdb.org/t/p/w300/uRSIyrD4gjZgwtnITBdBqKabqzw.jpg",
+            src: "https://superflixapi.dev/filme/tt0093058"
         },
         {
             title: "O Senhor dos Anéis",
@@ -346,6 +388,13 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0892255"
         },
         {
+            title: "Seven",
+            year: 1995,
+            genre: "Crime/Suspense",
+            img: "https://image.tmdb.org/t/p/w300/oN5jOhcnguePfC9u3xzUOp98HzH.jpg",
+            src: "https://superflixapi.dev/filme/tt0114369"
+        },
+        {
             title: "Elvis",
             year: 2022,
             genre: "Drama/História",
@@ -395,6 +444,13 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0318462"
         },
         {
+            title: "Um Sonho de Liberdade",
+            year: 1994,
+            genre: "Drama",
+            img: "https://image.tmdb.org/t/p/w300/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
+            src: "https://superflixapi.dev/filme/tt0111161"
+        },
+        {
             title: "O Senhor dos Anéis",
             year: 1978,
             genre: "Fantasia",
@@ -421,6 +477,13 @@ $(document).ready(function () {
             genre: "Comédia",
             img: "https://image.tmdb.org/t/p/w300/9R7hTHaSeKU7Fk0Dr75Y6YhdYcu.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0087928"
+        },
+        {
+            title: "Coração Valente",
+            year: 1995,
+            genre: "Drama/História",
+            img: "https://image.tmdb.org/t/p/w300/tWBbNikf5ng7BuNGA55MkvhLrag.jpg",
+            src: "https://superflixapi.dev/filme/tt0112573"
         },
         {
             title: "O Estranho Mundo de Jack",
@@ -451,11 +514,46 @@ $(document).ready(function () {
             src: "https://embedder.net/e/movie?imdb=tt0118971"
         },
         {
+            title: "Os Sete Samurais",
+            year: 1954,
+            genre: "Ação/Drama",
+            img: "https://media.fstatic.com/EPJL7lnI7vUks6qhF1m6PPTO1BM=/322x478/smart/filters:format(webp)/media/movies/covers/2011/06/63b3d8a7296952648e1648cc9ec2e5d3.jpg",
+            src: "https://superflixapi.dev/filme/tt0047478"
+        },
+        {
             title: "Efeito Borboleta",
             year: 2004,
             genre: "Ficção",
             img: "https://image.tmdb.org/t/p/w300/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg",
             src: "https://embedder.net/e/movie?imdb=tt0289879"
+        },
+        {
+            title: "Forrest Gump",
+            year: 1994,
+            genre: "Comédia/Drama",
+            img: "https://image.tmdb.org/t/p/w300/d74WpIsH8379TIL4wUxDneRCYv2.jpg",
+            src: "https://superflixapi.dev/filme/tt0109830"
+        },
+        {
+            title: "A Viagem de Chihiro",
+            year: 2001,
+            genre: "Animação",
+            img: "https://image.tmdb.org/t/p/w300/hhoKhsyJ3hFaxEm5pMdZRiTu2lJ.jpg",
+            src: "https://superflixapi.dev/filme/tt0245429"
+        },
+        {
+            title: "Os Miseráveis",
+            year: 2019,
+            genre: "Crime/Drama",
+            img: "https://image.tmdb.org/t/p/w300/ywO4oyCfohDvrbU7motFRd2WdqL.jpg",
+            src: "https://superflixapi.dev/filme/tt10199590"
+        },
+        {
+            title: "Cinema Paradiso",
+            year: 1988,
+            genre: "Drama",
+            img: "https://image.tmdb.org/t/p/w300/kkmwHNAiCea2QGX6kgPmdDKaWyp.jpg",
+            src: "https://superflixapi.dev/filme/tt0095765"
         },
         
         
